@@ -1,0 +1,41 @@
+/* 
+Theme Name: Los Magos
+Author: RIDAH STUDIOS
+Description: This is a custom wordpress theme built for los magos.
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: movellus
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Generic
+	
+# Base
+	
+
+*/
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-top: 0 !important;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    /* background-color: var(--on-background); */
+  }
+
